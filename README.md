@@ -1,6 +1,7 @@
 ### Hi there! ✨
 
-I'm a physics and mathematics student at Stockholm Unviersity, currently doing a research project about gas dynamics in protoplanetary disks.
+I'm a physics and mathematics student at Stockholm Unviersity, currently doing a research project about gas dynamics in protoplanetary disks with the University of Cambridge.
+
 I'm still pretty new to github, but I'm learning!
 
 <!--
