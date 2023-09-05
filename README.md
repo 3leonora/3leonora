@@ -4,16 +4,15 @@
   <img src="https://github.com/3leonora/3leonora.github.io/blob/main/profilepic.jpg?raw=true" width="200">
 </p>
 
-I recently finished my my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of symmetries, number theory and strings. I'm not extremely active on my github, but feel free to look around.
+I recently finished my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of symmetries, number theory and strings. I'm not extremely active on my GitHub, but feel free to look around.
 
 Useful links:
-
 
 - 💻 Read more on my [Academic Website](https://3leonora.github.io)
 
 - 🔎 Find me on [Google Scholar](https://scholar.google.com/citations?hl=sv&user=ra1iMvIAAAAJ&view_op=list_works&gmla=AJsN-F7UhW51UJABPDypS5sO2EAcZCihRjskedWM8u44WiOP7jIqiEYkRnOHzVMqDziRDJ4kVeHRnbhwqEsjvFXj59zNFZl0fOnwaAokbeC-IYB-VqaY6Ec)
 
-- 🎨 I do content creation on social media, focusing on **science communication, studying advice and #womeninstem**:[Social Media Links](https://lnk.bio/elle)
+- 🎨 I do content creation on social media, focusing on **science communication, studying advice and #womeninstem**: [Social Media Links](https://lnk.bio/elle)
 
 - 📧 Academic inquires only: **es944 at cam.ac.uk**
 
