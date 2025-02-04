@@ -1,10 +1,10 @@
 <h1 align="left">Hi there! ✨</h1>
-<h4 align="center">I'm an incoming PhD student in string theory at Magdalen College, University of Oxford.</h4>
+<h4 align="center">I'm a PhD student in mathematical physics at Magdalen College, University of Oxford.</h4>
 <p align="center">
   <img src="https://github.com/3leonora/3leonora.github.io/blob/main/profilepic.jpg?raw=true" width="200">
 </p>
 
-I recently finished my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of symmetries, number theory and strings. I'm not extremely active on my GitHub, but feel free to look around.
+I finished my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of symmetries, number theory and strings. I'm not extremely active on my GitHub, but feel free to look around.
 
 Useful links:
 
@@ -14,7 +14,7 @@ Useful links:
 
 - 🎨 I do content creation on social media, focusing on **science communication, studying advice and #womeninstem**: [Social Media Links](https://lnk.bio/elle)
 
-- 📧 Academic inquires only: **es944 at cam.ac.uk**
+- 📧 Academic inquires only: **firstname.lastname at maths.ox.ac.uk**
 
 <p align="center"> <a href="https://twitter.com/eleonorasberg" target="blank"><img src="https://img.shields.io/twitter/follow/eleonorasberg?logo=twitter&style=for-the-badge" alt="eleonorasberg" /></a> </p>
 
