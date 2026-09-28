@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! ✨</h1>
 <h4 align="center">I'm a PhD student in mathematical physics at Magdalen College, University of Oxford.</h4>
 
-I finished my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of symmetries, number theory and strings. I'm not extremely active on my GitHub, but feel free to look around.
+I finished my **master's** (Part III of the Mathematical Tripos) in **applied mathematics** (= mathematical physics) at St John's College, University of Cambridge. Before that I got my **BSc in Physics** from Stockholm University. I'm constantly trying to make sense of physics, number theory and geometry. 
 
 Useful links:
 
